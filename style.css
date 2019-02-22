@@ -94,3 +94,18 @@ column:after {
     text-align: justify;
 
 }
+
+.banner {
+    max-height: 300px;
+    overflow: hidden;
+    margin: 1%;
+}
+
+.banner h2 {
+    position: absolute;
+    top: 70px;
+    margin: 0;
+    width: 100%;
+    text-align: center;
+    color: #fff;
+}
