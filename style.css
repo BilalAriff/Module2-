@@ -110,6 +110,11 @@ column:after {
     color: #fff;
 }
 
+.services {
+    max-height: 150px;
+    overflow: visible;
+}
+
 nav {
     background: #333;
     position: fixed;
