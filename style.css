@@ -1,3 +1,7 @@
+body {
+    background-color: blanchedalmond;
+}
+
 .wrapper {
     background: #fff;
     max-width: 960px;
@@ -9,4 +13,25 @@
     content: "";
     display: block;
     clear: both;
+}
+
+img {
+    float: left;
+    margin: 10px;
+}
+
+.red {
+    background-color: red ;
+}
+
+.box {
+    height: 100px;
+    width: 100%;
+}
+
+.green{
+    background-color: green ;
+}
+.blue {
+    background-color: blue ;
 }
