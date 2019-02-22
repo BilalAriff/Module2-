@@ -51,3 +51,10 @@ img {
     padding: 1%;
     height: 140px;
 }
+
+.content {
+    padding: 20px;
+    background: #ccc;
+    clear: left;
+    margin-top: 50px;
+}
