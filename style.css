@@ -72,3 +72,14 @@ column:after {
     content: "";
     clear: both;
 }
+
+.content p {
+    -webkit-column-count: 3;
+    -webkit-column-gap: 50px;
+    -webkit-column-rule: 1px solid #ccc;
+    column-count: 3;
+    column-gap: 50px;
+    column-rule: 1px solid #ccc;
+    text-align: justify;
+
+}
